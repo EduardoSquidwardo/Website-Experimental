@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fanmeldung\u002F[kurs]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
